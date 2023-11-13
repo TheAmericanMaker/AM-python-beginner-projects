@@ -47,4 +47,3 @@ time_var.set(10 * 3600)
 
 update_clock()                        # Starting the clock update function
 root.mainloop()                       # Running the Tkinter main loop
-
